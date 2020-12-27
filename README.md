@@ -1,4 +1,4 @@
-# My-application
+# WeatherApp
 
 It is an android application to know the weather current weather condition 
 
