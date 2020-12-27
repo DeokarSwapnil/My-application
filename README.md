@@ -1,6 +1,6 @@
 # My-application
 
-It is a android application to know the weather current weather condition 
+It is an android application to know the weather current weather condition 
 
 dependencies {
     ...
